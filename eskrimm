@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'eskrimm'
         required: true
-        default: 'eskrimm Ai agent'
+        default: 'eskrimm AI agent'
 
 jobs:
   verify:
