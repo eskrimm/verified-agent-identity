@@ -8,7 +8,7 @@ on:
         required: true
         default: 'eskrimm'
       agent_description:
-        description: 'eskimm'
+        description: 'eskrimm'
         required: true
         default: 'eskrimm Ai agent'
 
